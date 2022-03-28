@@ -25,4 +25,26 @@ const List<String> pictures_2 = [
   "https://i10.fotocdn.net/s115/06fd864f4ce0ab33/public_pin_l/2609816092.jpg",
   "https://doka-mk.ru/800/600/https/pbs.twimg.com/media/Ce_H1DMUsAAgWtv.jpg"
 ];
+const List<String> pictures_3 = [
+  "https://azan.kz/media/images/57d02609dc781.jpg",
+  "https://i05.fotocdn.net/s107/183da2e5d362b444/public_pin_l/2324313944.jpg",
+  "https://static10.tgstat.ru/channels/_0/f1/f1336a6fc5cd10e5834ff9006c598081.jpg",
+  "https://telegra.ph/file/bb1fc0d2b51d18b001181.jpg",
+  "https://i.pinimg.com/originals/e1/3f/55/e13f55baf85a95b52f50bbc52cdc1363.jpg",
+  "https://i08.fotocdn.net/s105/64fc56fff5c6a301/public_pin_l/2247226976.jpg",
+  "https://im0-tub-ru.yandex.net/i?id=619496a347f7a64b540ffccf17dc9988-l&n=13",
+  "https://i10.fotocdn.net/s115/06fd864f4ce0ab33/public_pin_l/2609816092.jpg",
+  "https://doka-mk.ru/800/600/https/pbs.twimg.com/media/Ce_H1DMUsAAgWtv.jpg"
+];
+const List<String> pictures_4 = [
+  "https://azan.kz/media/images/57d02609dc781.jpg",
+  "https://i05.fotocdn.net/s107/183da2e5d362b444/public_pin_l/2324313944.jpg",
+  "https://static10.tgstat.ru/channels/_0/f1/f1336a6fc5cd10e5834ff9006c598081.jpg",
+  "https://telegra.ph/file/bb1fc0d2b51d18b001181.jpg",
+  "https://i.pinimg.com/originals/e1/3f/55/e13f55baf85a95b52f50bbc52cdc1363.jpg",
+  "https://i08.fotocdn.net/s105/64fc56fff5c6a301/public_pin_l/2247226976.jpg",
+  "https://im0-tub-ru.yandex.net/i?id=619496a347f7a64b540ffccf17dc9988-l&n=13",
+  "https://i10.fotocdn.net/s115/06fd864f4ce0ab33/public_pin_l/2609816092.jpg",
+  "https://doka-mk.ru/800/600/https/pbs.twimg.com/media/Ce_H1DMUsAAgWtv.jpg"
+];
 
